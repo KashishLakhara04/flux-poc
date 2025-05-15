@@ -5,3 +5,4 @@ resources:
 - gotk-sync.yaml
 - deployment.yml
 - podinfo-deployment.yaml
+- podinfo-registry.yaml
